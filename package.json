@@ -34,5 +34,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  },
+  "main": "index.js",
+  "author": "Brian McLaren <brianqmclaren@gmail.com>",
+  "license": "MIT"
 }
